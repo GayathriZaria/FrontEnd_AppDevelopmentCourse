@@ -29,16 +29,21 @@ const handleSubmit=(e)=>{
 
   return (
     <>
-    <div className="main-r d-flex-c-r">
+    <div className="main-l d-flex-c-l" >
     <form onSubmit={handleSubmit}>
-    <div className="auth-form-r d-flex-c-r">
+    <div className="auth-form-l d-flex-c-l">
+    <div className="event-r">
+    <div className='input-field-l'>
+      <h3>EVENT MANAGEMENT</h3>
         <input type="name" name="name" id="name" className='input-field' placeholder='name' onChange={handleChange} required autoFocus/>
         <input type="phone" name="phone" id="phone" className='input-field' placeholder='phone' onChange={handleChange} required/>
         <input type="email" name="email" id="email" className='input-field' placeholder='Email' onChange={handleChange} required/>
         <input type="password" name="password" id="password" className='input-field' placeholder='Password' onChange={handleChange} required/>
         <button type="submit" className='auth-btn'>Register</button>
+        <h5 className='text'>Already have an account ? <span className='text-link-r' onClick={handleRoute}>  Login </span></h5>
     </div>
-    <h5 className='text'>Already have an account ? <span className='text-link' onClick={handleRoute}>  Login </span></h5>
+    </div>
+    </div>
     </form>
     </div>
     <Toaster
