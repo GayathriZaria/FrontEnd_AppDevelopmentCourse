@@ -1,0 +1,28 @@
+.scrollable-content {
+    /* overflow: auto; */
+    position: absolute;
+    left: 0;
+}
+.big-l{
+    color: beige;
+    font-size: 48px; 
+    text-align: center;
+    text-shadow: whitesmoke 5px 2px 4px ;
+    margin-top: -1100px;
+    margin-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .big-2{
+    color: beige;
+    font-size: 36px; 
+    text-align: center;
+    text-shadow: whitesmoke 0.8px 0 3px ;
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+    .hr {
+        color:honeydew;
+        border-color: white; 
+        border:none;
+        border-top:1px solid; 
+        margin:1em 20%;  
+        }
