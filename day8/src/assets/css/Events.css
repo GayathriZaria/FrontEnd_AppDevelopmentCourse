@@ -1,0 +1,134 @@
+
+.square12 {
+    background-image: url('../images/event/e1.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      position: relative;
+      background-attachment: scroll;
+      margin-top: 250px;
+      margin-left: 120px;
+      margin-bottom: 20px;
+  }
+  .square22 {
+    background-image: url('../images/event/e2.png');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+      position: relative;
+  }
+  .square32 {
+    background-image: url('../images/event/e3.png');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+  }
+  .square42 {
+    background-image: url('../images/event/e4.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+  }
+  .square1 {
+    background-image: url('../images/event/e5.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      position: relative;
+      background-attachment: scroll;
+      margin-top: 250px;
+      margin-left: 120px;
+      margin-bottom: 20px;
+  }
+  .square2 {
+    background-image: url('../images/event/e6.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+      position: relative;
+  }
+  .square3 {
+    background-image: url('../images/event/e7.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+  }
+  .square4 {
+    background-image: url('../images/event/e8.jpg');
+      height: 200px;
+      width: 180px;
+      border-radius: 50px;
+      background-position: center;
+      background-size: cover;
+      margin-left: 300px;
+  }
+  
+  .texting12{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 130px;
+  
+  }
+  .texting22{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 140px;
+  }
+  .texting32{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 170px;
+  }
+  .texting42{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 150px;
+  }
+  .texting1{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 120px;
+  
+  }
+  .texting2{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 120px;
+  }
+  .texting3{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 170px;
+  }
+  .texting4{
+    color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 200px;
+  }
