@@ -21,10 +21,10 @@ const Home = () => {
       <p className='font2'> Celebrate your journey of life...</p>
       <hr/>
       <br/>
-      <p className='text2'>Login to access the website</p>
-       <Link to='/Login'>
+      <p className='text2'>Click here to see the website</p>
+       <Link to='/Dashboard'>
       <button className='button2' align-item='center' >
-        Login</button>
+        Dashboard</button>
       <br/><br/><br/><br/><br/><br/><br/><br/>
       </Link>
       <div className='big22'>Why us?</div>
